@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<books>
+<book>
+  <title>
+    PHP and MySQL Web Development
+  </title>
+  <author>
+    Luke Welling and Laura Thomson
+  </author>
+  <isbn13>
+    978-321-83389-1
+  </isbn13>
+  <edition>
+    Fifth
+  </edition>
+  <usprice>
+    39.99
+  </usprice>
+</book>
+<book>
+  <title>
+    Business Communication and Soft Skills
+  </title>
+  <author>
+    Ravi Mohapatra
+  </author>
+  <isbn13>
+    978-93-5084-091-7
+  </isbn13>
+  <edition>
+    1st
+  </edition>
+  <usprice>
+    244.99
+  </usprice>
+</book>
+<book>
+  <title>
+    A Promised Land
+  </title>
+  <author>
+    Barack Obama
+  </author>
+  <isbn13>
+    9780593239049
+  </isbn13>
+  <edition>
+    1st
+  </edition>
+  <usprice>
+    17.99
+  </usprice>
+</book>
+</books>
