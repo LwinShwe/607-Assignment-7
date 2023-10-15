@@ -1,0 +1,25 @@
+{
+"books": [
+  {
+    "Title": "PHP and My SQL Web Development",
+    "Author": "Luke Welling and Laura Thomson",
+    "ISBN13": "978-321-83389-1",
+    "Edition": "5th",
+    "usprice": "39.99"
+  },
+  {
+    " Title ": "Business Communication and Soft Skills ",
+    " Author ": "Dr. Ravi Mohapatra",
+    " ISBN13": "978-93-5084-091-4",
+    " Edition ": "1st",
+    " usprice ": "244.99"
+  },
+  {
+    "Title": "A Promised Land",
+    " Author ": "Barack Obama",
+    " ISBN13": "9780593239094",
+    " Edition ": "1st",
+    " usprice ": "17.99"
+  }
+]
+}
